@@ -1,0 +1,9 @@
+{
+  "Records": [
+    {
+      "Sns": {
+        "Message": "{\"Event Message\": \"Replication task has failed.\", \"Identifier Link\": \"arn:aws:dms:eu-west-1:123456789012:task:sample-task\", \"SourceId\": \"sample-task\"}"
+      }
+    }
+  ]
+}
